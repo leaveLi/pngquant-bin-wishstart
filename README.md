@@ -1,6 +1,6 @@
-# pngquant-bin-local-install
+# pngquant-bin-wishstart
 
-## 基于 pngquant-bin 安装不在需要进行翻墙
+## 基于 pngquant-bin vendor 下资源转存 wishstart
 
 ## 安装
 
@@ -15,7 +15,7 @@ const execFile = require("child_process").execFile;
 const pngquant = require("pngquant-bin");
 
 execFile(pngquant, ["-o", "output.png", "input.png"], (err) => {
-	console.log("Image minified!");
+  console.log("Image minified!");
 });
 ```
 
