@@ -1,0 +1,6 @@
+node_modules
+vendor/pngquant*
+vendor/share*
+yarn.lock
+
+.DS_Store
