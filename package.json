@@ -1,7 +1,7 @@
 {
   "name": "pngquant-bin-wishstart",
-  "version": "5.0.2",
-  "description": "基于pngquant-bin  vendor下的资源转存wishstart",
+  "version": "5.0.4",
+  "description": "png图片压缩",
   "license": "MIT",
   "repository": {
     "type": "git",
